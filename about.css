@@ -1,0 +1,71 @@
+body{
+    background-color: #CECECE;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: xx-large;
+    background-color: #4EE2EC; 
+    height: 50px
+}
+.navbar a{
+    text-decoration: none;
+    color: #0c090a;
+}
+.navbar a:hover{
+    text-decoration: none;
+    color: #797979;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Times p{
+    color: #0000A0;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.greece-events p{
+    color: #0000A0;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.japan-events p{
+    color: #0000A0;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.footbar{
+    display: flex;
+    justify-content: end;
+    justify-content: space-evenly;
+    font-size: xx-large;
+    background-color: #4EE2EC; 
+    width: 100% ;
+    height: 40px
+}
+.footbar a{
+    text-decoration: none;
+    color: #0c090a;
+}
+.footbar a:hover{
+    text-decoration: none;
+    color: #797979;
+}
