@@ -1,0 +1,93 @@
+body{
+    background-color: whitesmoke;
+}
+.navbar{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: xx-large; 
+    height: 50px
+}
+.navbar a{
+    text-decoration: none;
+    color: #0c090a;
+}
+.navbar a:hover{
+    text-decoration: none;
+    color: #797979;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sct-1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sct-1 img{
+    width: 30%;
+    height: 10%
+}
+.sct-1 p{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sct-2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sct-2 img{
+    width: 30%;
+    height: 10%
+}
+.sct-2 p{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.footbar{
+    display: flex;
+    justify-content: end;
+    justify-content: space-evenly;
+    font-size: xx-large;
+    background-color: #4EE2EC; 
+    width: 100% ;
+    height: 40px
+}
+.footbar a{
+    text-decoration: none;
+    color: #0c090a;
+}
+.footbar a:hover{
+    text-decoration: none;
+    color: #797979;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sct-3 q{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 25px;
+}
+.footbar{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
